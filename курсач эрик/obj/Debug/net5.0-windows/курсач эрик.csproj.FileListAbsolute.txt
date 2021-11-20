@@ -1,0 +1,21 @@
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\bin\Debug\net5.0-windows\курсач эрик.exe
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\bin\Debug\net5.0-windows\курсач эрик.deps.json
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\bin\Debug\net5.0-windows\курсач эрик.runtimeconfig.json
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\bin\Debug\net5.0-windows\курсач эрик.runtimeconfig.dev.json
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\bin\Debug\net5.0-windows\курсач эрик.dll
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\bin\Debug\net5.0-windows\ref\курсач эрик.dll
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\bin\Debug\net5.0-windows\курсач эрик.pdb
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.csproj.AssemblyReference.cache
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач_эрик.Form1.resources
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач_эрик.Form2.resources
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач_эрик.Form3.resources
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач_эрик.Form4.resources
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.csproj.GenerateResource.cache
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.AssemblyInfoInputs.cache
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.AssemblyInfo.cs
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.csproj.CoreCompileInputs.cache
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.dll
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\ref\курсач эрик.dll
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.pdb
+C:\Users\mikli\Desktop\Beauty-master\курсач эрик\obj\Debug\net5.0-windows\курсач эрик.genruntimeconfig.cache

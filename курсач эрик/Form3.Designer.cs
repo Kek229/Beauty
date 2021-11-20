@@ -57,6 +57,7 @@ namespace курсач_эрик
             this.textBox1.PlaceholderText = "Дата";
             this.textBox1.Size = new System.Drawing.Size(175, 55);
             this.textBox1.TabIndex = 2;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 

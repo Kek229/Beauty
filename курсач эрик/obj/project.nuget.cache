@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DMOybF8hHRgpI1ixlE305QxJJ5BVAJWv2RmOwwhjbMkJaqitp1UtjSZBqZMIRhwgQAnwqfZoG+4UM4+KzC5f8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikli\\Desktop\\Beauty-master\\курсач эрик\\курсач эрик.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\mikli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mikli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mikli\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -16,5 +16,15 @@ namespace курсач_эрик
         {
             InitializeComponent();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Rows.Add(data.a,data.b,data.c,data.d,data.e);
+        }
     }
 }

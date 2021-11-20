@@ -19,8 +19,24 @@ namespace курсач_эрик
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form4 form4 = new Form4();
-            form4.ShowDialog();
+            data.a = textBox1.Text;
+            data.b=textBox2.Text;
+            data.c=textBox3.Text;
+            data.d=textBox4.Text;
+            data.e=textBox5.Text;
+            if (data.i == true)
+            {
+
+                Form4 form4 = new Form4();
+                form4.Show ();
+                data.i = false;     
+            }
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
